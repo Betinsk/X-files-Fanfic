@@ -77,8 +77,7 @@
 
         #conteudo  {
             float: left;
-            
-            width: 680px;
+            width: 630px;
             margin: 10px;
         }
 
@@ -93,7 +92,6 @@
         #menu-phenomena ul {
             padding: 10px;
 
-            
         }
 
         #menu-phenomena li:hover {
@@ -125,6 +123,10 @@
             margin-left: 25px;
             font-size: 1.5em;
            font-family: 'monster';
+        }
+
+        video {
+            float: right;
         }
 
         #imagem {
