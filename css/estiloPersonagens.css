@@ -67,10 +67,8 @@
             height: 60px;
             margin: 0 10px 10px 10px;
             background: rgb(63, 60, 60);
-            
         }
 
-        
         #menu-navegacao ul {
             padding: 0;
             list-style: none;
@@ -92,5 +90,6 @@
             color: white;
             background: black;
             padding: 10px;
-        
         }
+
+      

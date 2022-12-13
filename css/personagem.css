@@ -19,7 +19,7 @@
 
         #container {
             width: 900px;
-            height: 1400px;
+            height: 1900px;
             margin: auto;
             background: url("../images/f0FH9Er.webp") 
 
@@ -76,14 +76,6 @@
             margin: 10px;
         }
 
-        #conteudo  table {
-            color: white;
-        }
-        
-        #conteudo  td, tr {
-            color: white;
-        }
-
 
         #imagem {
             width: 370px;
@@ -93,5 +85,37 @@
         }
 
     
+        #card {
+            margin: auto;
+            width: 92.5%;
+            height: 75%;
+            background: rgba(252, 252, 253, 0.5);
+            border-radius: 10px;
+           
+        }
+
+        .cards {
+            height: 700px;
+            width: 265px;
+            float: right;
+            margin: 6px;
+            background: rgb(0, 0, 0);
+            border-radius: 10px;
+        
+        }
+
+        .cards img {
+            width: 265px;
+            height: 280px;
+            border-radius: 10px;
+        }
+
+        .cards h1, p {
+            font-family: Lucida Bright;
+            font-size: 0.9em;
+            color: white;
+           text-align: center;
+           padding: 3px;
+        }
 
      
