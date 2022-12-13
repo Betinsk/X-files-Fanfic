@@ -8,7 +8,6 @@
             margin: 0px;
             padding: 0px;
             background: rgb(49, 47, 47) repeat-y; 
-            
         }
 
         ul {
@@ -22,11 +21,10 @@
             height: 1400px;
             margin: auto;
             background: url("../images/f0FH9Er.webp") 
-
         }
 
         #topo {
-            background: black;
+            background: linear-gradient(rgb(0, 0, 0), black, rgb(187, 187, 187) );
             padding: 10px;
             margin: 10px;
             
@@ -38,14 +36,12 @@
             color: white;
         }
 
-        
         #menu-navegacao{
             height: 60px;
             margin: 0 10px 10px 10px;
-            background: rgb(63, 60, 60);
+            background: rgb(63, 60, 60, 0.8);
         }
 
-        
         #menu-navegacao ul {
             padding: 0;
             list-style: none;
@@ -84,7 +80,6 @@
         #menu-phenomena {
             color: white;
             float: right;
-        
             width: 170px;
             margin: 10px;
         }

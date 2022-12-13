@@ -69,15 +69,32 @@
             border-radius: 10px;
         }
 
+        #conteudo {
+            margin: auto;
+            width: 95%;
+            height: 41%;
+            background: rgba(20, 2, 83, 0.4);
+           
+        }
+
         .fotoAlien {
-            height: 250px;
-            width: 250px;
+            height: 265px;
+            width: 265px;
             float: right;
             margin: 10px;
+        
         }
 
         .fotoAlien img {
             height: 100%;
         }
 
+        
+        #alienTrans {
+            height: 600px;
+            width: 850px;
+            padding: 25px;
+        }
+
+      
 
