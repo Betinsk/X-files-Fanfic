@@ -69,38 +69,15 @@
             border-radius: 10px;
         }
 
-        .formu {
-            border: 1px solid white;
-        }
-
-        #form P{
-           color: white;
-        }
-
-        form, .text {
-            color: rgb(212, 30, 30);
+        .fotoAlien {
+            height: 250px;
             width: 250px;
-            height: 25px;
+            float: right;
+            margin: 10px;
+        }
+
+        .fotoAlien img {
+            height: 100%;
         }
 
 
-
-        #imagem {
-            width: 370px;
-            height: 500px;
-            background: black;
-            margin-left: 270px;
-        
-        }
-
-
-        #divImag  {
-            border: 1px solid red;
-        }
-
-     
-        #imagem-meio img{
-            width: 750px;
-            height: 450px;
-            margin-left: 100px;
-        }

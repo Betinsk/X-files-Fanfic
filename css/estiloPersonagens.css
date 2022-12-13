@@ -1,4 +1,9 @@
 
+       @font-face {
+        font-family: 'monster';
+        src: url('Melted Monster.ttf') format('truetype');
+      }
+
         body {
             margin: 0px;
             padding: 0px;
@@ -23,7 +28,7 @@
         }
 
         #topo h1 {
-            font-family: fantasy;
+            font-family: 'monster';
             text-align: center;
             color: white;
         }
@@ -71,7 +76,7 @@
             margin: 24px 0 200px 260px;
         }
         #menu-navegacao a:hover {
-            color: rgb(3, 226, 33);
+            color: rgba(212, 175, 55);
         }
 
         #menu-navegacao li {
@@ -80,6 +85,7 @@
         }
 
       #menu-navegacao a {
+            font-family: 'monster';
             text-decoration: none;
             color: white;
             background: black;
