@@ -51,9 +51,9 @@
             float: left;
             padding: 10px;
             margin-left: 10px;
-            background: url("../images/download.jpg" ) #5e42da;
+            background: #010007;
             opacity: 0.8;
-            border: 2px solid green;
+            border: 2px solid rgb(0, 0, 0);
         }
 
         #conteudo p {
