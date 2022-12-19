@@ -43,7 +43,6 @@
             height: 60px;
             margin: 0 10px 10px 10px;
             background: rgb(63, 60, 60);
-            
         }
 
         
@@ -51,7 +50,6 @@
             padding: 0;
             list-style: none;
             margin: 24px 0 200px 260px;
-            
         }
 
         #menu-navegacao a:hover {
@@ -60,7 +58,6 @@
 
         #menu-navegacao li {
             display: inline;
-            
         }
 
       #menu-navegacao a {
@@ -70,23 +67,29 @@
             background: black;
             padding: 10px;
             border-radius: 10px;
-            
         }
 
-        .formu {
+        #formu {
             border: 1px solid white;
+            height: 650px;
+            margin: 10px;
         }
 
-        #form P{
-           color: white;
+        #formu h1{
+            color: white;
         }
 
-        form, .text {
-            color: rgb(212, 30, 30);
+        form, label {
+            color: rgb(253, 252, 252);
             width: 250px;
             height: 25px;
+            margin: 5px;
         }
 
+       input {
+        margin: 0.4px;
+
+        }
 
 
         #imagem {
@@ -94,7 +97,6 @@
             height: 500px;
             background: black;
             margin-left: 270px;
-        
         }
 
 
